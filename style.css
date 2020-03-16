@@ -1,0 +1,191 @@
+body {
+    font-family: avenir, Helvetica, Arial,  sans-serif;
+    background-image: url(./image/bg.jpg);
+    
+}
+
+
+body .container {
+    height: 82.5%;
+    width: 88.5%;
+    background-color: #ffffff;
+    position: absolute;
+    top: 9%;
+    left: 4%;
+    
+    padding-left: 3%;
+
+}
+
+.logo {
+    margin-top: 20px;
+    color:#3c4891;
+    font-weight: bold;
+    font-size: 25px;
+    
+    
+}
+
+.navbar{
+  
+    float: right;
+    padding-right:60px ;
+    margin-top: -53px;
+   
+}
+
+.navbar ul li {
+    display: inline-block;
+    
+}
+
+
+
+.navbar a {
+    text-decoration: none;
+    color: #8c92bd;
+    font-weight: normal;
+    font-size: medium;
+    font-size: 25px;
+
+  }
+
+ .navbar a:hover {
+    color: #2c40c4;
+}
+ a:visited{
+    color: #2c40c4;
+    
+}
+
+#ab {
+    padding: 11px;
+}
+
+h1 {
+    font-weight: lighter;
+    padding-top: 40px;
+    padding-left: 50px;
+    font-size: 300%;
+    color: white;
+    background-image: url(./image/bg.jpg);
+   height: 24rem;
+    width: 300px;
+    border-radius: 25px;
+    
+}
+
+.socialmedia img {
+    height: 1.5%;
+    width: 3.2%;
+    padding-right: 2%;
+
+    
+    
+
+}
+
+.left {
+    text-align: right;
+   float: right;
+   padding-right: 10%;
+   height: 100%;
+   position: absolute;
+   top: 23%;
+   
+   
+}
+
+p  {
+    padding-right: 11.5%;
+    color: rgb(192, 190, 190);
+    
+}
+.para p .join{
+    font-size: x-small;
+}
+#sm{
+    margin-right: 40px;
+    padding-left: -100px;
+}
+.inputform input{
+    
+    padding-right: 20%;
+    border-radius: 4px;
+    border-top:gray;
+    border-left: gray;
+    border-right: grey;
+   
+   
+
+    
+
+  }
+   label{
+    font-size: small;
+    font-family: avenir, Helvetica, Arial,  sans-serif;
+    flex-wrap: nowrap;
+    padding-right: 8%;
+    width: 10%;
+    color: rgb(192, 190, 190);
+    
+  }
+
+  .input .fn{
+      padding-right: 22.2%;
+      margin-bottom: -16.5px;
+  }
+
+  
+  .input .em{
+    padding-right: 27.5%;
+    margin-bottom: -16.5px;
+    
+}
+.input .pw{
+    padding-right: 31%;
+    margin-bottom: -16.5px;
+}
+label .first-name {
+    font-size: 80.5%;
+}
+
+label .last-name {
+    font-size: 80%;
+    
+}
+ .checkboxform .checkboxsp {
+
+    margin-left: 88%;
+    margin-top: ;
+  
+
+    
+
+ }
+ .checkboxform  .sp{
+    font-size: x-small;
+   
+ }
+
+ .checkboxform .checkboxtc {
+
+    margin-right: 4.5%;
+    font-size: x-large;
+ }
+form button .sign-up{
+    margin-left: 300%;
+}
+ .sign-up{
+
+    background-image: url(./image/bg.jpg);
+    border: none;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    border-radius: 15px;
+  }
+  
+  .sign-up:hover{
+    background-color: rgb(40, 164, 231);
+    cursor: pointer;
+  }
